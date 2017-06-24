@@ -1,0 +1,88 @@
+CB0700A1
+2007 County Business Patterns: Geography Area Series: County Business Patterns: 2007
+
+NOTE: Data based on the 2007 County Business Patterns. Data
+for counties may not add to state totals due to the exclusion of
+"statewide" county data. 
+(Statewide data are included in the CBP html tables and
+download files found at 
+County Business
+Patterns Website.) For information on confidentiality
+protection, sampling error, nonsampling error, and definitions, see
+
+Survey
+Methodology. Data in this table represent those available when
+this report was created; data may not be available for all NAICS
+industries or geographies. Excludes most government employees,
+railroad employees, and self-employed persons.
+
+
+
+c	100 to 249 employees
+
+D	Withheld to avoid disclosing data for individual companies; data are included in higher level totals
+
+e	250 to 499 employees
+
+S	Withheld because estimate did not meet publication standards
+
+H	Medium noise infusion
+
+b	20 to 99 employees
+
+a	0 to 19 employees
+
+G	Low noise infusion
+
+f	500 to 999 employees
+
+g	1,000 to 2,499 employees
+
+h	2,500 to 4,999 employees
+
+UNIVERSE DESCRIPTION
+The universe of this file is all operating establishments with
+one or more paid employees. This universe includes most
+establishments classified in the North American Industry
+Classification System (NAICS) Codes 11 through 813990. For more
+information on NAICS, see
+North American
+Industry Classification System.
+DATA ITEMS
+This file contains data on:
+
+  Number of establishments
+  Total employment
+  First quarter payroll
+  Annual payroll
+
+GEOGRAPHIC COVERAGE
+The data are shown at the U.S. level and by State, County, and
+Metropolitan and Micropolitan Statistical Areas.
+INDUSTRY DETAIL
+The data are shown at the 2- through 6-digit NAICS code levels
+for all sectors.
+OTHER VARIABLES IDENTIFYING RECORDS
+None
+RELEASE SCHEDULE
+The data in this file correspond to the County Business Patterns
+reports released in July 2009.
+RELATED DATA FILES
+None.
+DATA LIMITATIONS
+Statewide records are excluded from previous years; request has
+been made to add them in 2007. Beginning with reference year 2007,
+CBP data are released using the Noise disclosure methodology to
+protect confidentiality. See
+Survey
+Methodology for complete information on the coverage and
+methodology of the County Business Patterns data series.
+FILE SEQUENCE
+Data are presented in ascending Geography (GEOTYPE x ST x COUNTY
+x CSA x MSA x MD) by NAICS Code (NAICS2002) sequence.
+ESTIMATED FILE SIZE
+Approx. 242 MB
+
+
+
+

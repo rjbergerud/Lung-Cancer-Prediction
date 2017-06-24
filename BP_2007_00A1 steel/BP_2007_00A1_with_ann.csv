@@ -1,0 +1,524 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,YEAR.id,ESTAB,EMP,EMP_N,PAYQTR1,PAYQTR1_N,PAYANN,PAYANN_N
+Geographic identifier code,Id2,Geographic area name,2002 NAICS code,Meaning of 2002 NAICS code,Year,Number of establishments,Number of employees,Noise range for number of employees (%),"First-quarter payroll ($1,000)",Noise range for first-quarter payroll (%),"Annual payroll ($1,000)",Noise range for annual payroll (%)
+0100000US,,United States,33111,Iron and steel mills and ferroalloy manufacturing,2007,901,109998,G,1849877,G,7482425,G
+0400000US01,01,Alabama,33111,Iron and steel mills and ferroalloy manufacturing,2007,16,4465,H,89597,H,338555,H
+0400000US02,02,Alaska,33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0400000US04,04,Arizona,33111,Iron and steel mills and ferroalloy manufacturing,2007,13,112,G,737,G,3449,G
+0400000US05,05,Arkansas,33111,Iron and steel mills and ferroalloy manufacturing,2007,14,2701,H,60696,H,205772,H
+0400000US06,06,California,33111,Iron and steel mills and ferroalloy manufacturing,2007,90,2949,G,48799,G,178982,G
+0400000US08,08,Colorado,33111,Iron and steel mills and ferroalloy manufacturing,2007,11,1097,H,19743,H,71865,H
+0400000US09,09,Connecticut,33111,Iron and steel mills and ferroalloy manufacturing,2007,5,e,D,D,D,D,D
+0400000US10,10,Delaware,33111,Iron and steel mills and ferroalloy manufacturing,2007,3,e,D,D,D,D,D
+0400000US12,12,Florida,33111,Iron and steel mills and ferroalloy manufacturing,2007,19,427,H,6583,H,28194,H
+0400000US13,13,Georgia,33111,Iron and steel mills and ferroalloy manufacturing,2007,17,533,G,7639,H,31284,H
+0400000US16,16,Idaho,33111,Iron and steel mills and ferroalloy manufacturing,2007,7,99,H,722,H,3345,H
+0400000US17,17,Illinois,33111,Iron and steel mills and ferroalloy manufacturing,2007,53,6651,G,110473,H,491589,G
+0400000US18,18,Indiana,33111,Iron and steel mills and ferroalloy manufacturing,2007,34,19867,G,346330,G,1344381,G
+0400000US19,19,Iowa,33111,Iron and steel mills and ferroalloy manufacturing,2007,16,845,G,16249,H,55261,G
+0400000US20,20,Kansas,33111,Iron and steel mills and ferroalloy manufacturing,2007,3,b,D,D,D,D,D
+0400000US21,21,Kentucky,33111,Iron and steel mills and ferroalloy manufacturing,2007,20,3604,G,58890,G,230913,G
+0400000US22,22,Louisiana,33111,Iron and steel mills and ferroalloy manufacturing,2007,8,f,D,D,D,D,D
+0400000US24,24,Maryland,33111,Iron and steel mills and ferroalloy manufacturing,2007,11,h,D,D,D,D,D
+0400000US25,25,Massachusetts,33111,Iron and steel mills and ferroalloy manufacturing,2007,10,139,H,3737,H,8335,G
+0400000US26,26,Michigan,33111,Iron and steel mills and ferroalloy manufacturing,2007,48,4194,H,71285,H,287867,H
+0400000US27,27,Minnesota,33111,Iron and steel mills and ferroalloy manufacturing,2007,11,f,D,D,D,D,D
+0400000US28,28,Mississippi,33111,Iron and steel mills and ferroalloy manufacturing,2007,12,e,D,D,D,D,D
+0400000US29,29,Missouri,33111,Iron and steel mills and ferroalloy manufacturing,2007,13,119,H,854,H,5571,G
+0400000US30,30,Montana,33111,Iron and steel mills and ferroalloy manufacturing,2007,4,59,H,S,S,2088,H
+0400000US31,31,Nebraska,33111,Iron and steel mills and ferroalloy manufacturing,2007,3,e,D,D,D,D,D
+0400000US32,32,Nevada,33111,Iron and steel mills and ferroalloy manufacturing,2007,4,b,S,150,G,644,G
+0400000US33,33,New Hampshire,33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0400000US34,34,New Jersey,33111,Iron and steel mills and ferroalloy manufacturing,2007,21,f,D,D,D,D,D
+0400000US35,35,New Mexico,33111,Iron and steel mills and ferroalloy manufacturing,2007,6,b,D,D,D,D,D
+0400000US36,36,New York,33111,Iron and steel mills and ferroalloy manufacturing,2007,32,2065,H,31123,H,117984,H
+0400000US37,37,North Carolina,33111,Iron and steel mills and ferroalloy manufacturing,2007,22,1177,H,18260,H,76908,H
+0400000US38,38,North Dakota,33111,Iron and steel mills and ferroalloy manufacturing,2007,4,b,D,D,D,D,D
+0400000US39,39,Ohio,33111,Iron and steel mills and ferroalloy manufacturing,2007,64,14186,G,225700,G,1045032,G
+0400000US40,40,Oklahoma,33111,Iron and steel mills and ferroalloy manufacturing,2007,18,775,H,8309,G,33573,G
+0400000US41,41,Oregon,33111,Iron and steel mills and ferroalloy manufacturing,2007,8,g,D,D,D,D,D
+0400000US42,42,Pennsylvania,33111,Iron and steel mills and ferroalloy manufacturing,2007,81,17722,H,300490,H,1201927,H
+0400000US45,45,South Carolina,33111,Iron and steel mills and ferroalloy manufacturing,2007,26,3169,H,51363,H,183553,G
+0400000US46,46,South Dakota,33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0400000US47,47,Tennessee,33111,Iron and steel mills and ferroalloy manufacturing,2007,18,1173,G,17262,H,70221,H
+0400000US48,48,Texas,33111,Iron and steel mills and ferroalloy manufacturing,2007,83,5838,G,76373,G,368371,G
+0400000US49,49,Utah,33111,Iron and steel mills and ferroalloy manufacturing,2007,3,e,D,D,D,D,D
+0400000US50,50,Vermont,33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0400000US51,51,Virginia,33111,Iron and steel mills and ferroalloy manufacturing,2007,20,1368,H,21682,H,84720,H
+0400000US53,53,Washington,33111,Iron and steel mills and ferroalloy manufacturing,2007,16,715,G,15902,H,50286,G
+0400000US54,54,West Virginia,33111,Iron and steel mills and ferroalloy manufacturing,2007,13,2764,H,37836,H,154797,H
+0400000US55,55,Wisconsin,33111,Iron and steel mills and ferroalloy manufacturing,2007,10,f,D,D,D,D,D
+0400000US56,56,Wyoming,33111,Iron and steel mills and ferroalloy manufacturing,2007,4,b,D,D,D,D,D
+0400000US72,72,Puerto Rico,33111,Iron and steel mills and ferroalloy manufacturing,2007,4,a,D,D,D,D,D
+0500000US01049,01049,"DeKalb County, Alabama",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US01071,01071,"Jackson County, Alabama",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US01073,01073,"Jefferson County, Alabama",33111,Iron and steel mills and ferroalloy manufacturing,2007,5,2889,H,53055,H,208469,H
+0500000US01083,01083,"Limestone County, Alabama",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US01089,01089,"Madison County, Alabama",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US01097,01097,"Mobile County, Alabama",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,e,D,D,D,D,D
+0500000US01103,01103,"Morgan County, Alabama",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,f,D,D,D,D,D
+0500000US01117,01117,"Shelby County, Alabama",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US01125,01125,"Tuscaloosa County, Alabama",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US01129,01129,"Washington County, Alabama",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US02020,02020,"Anchorage Municipality, Alaska",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US04013,04013,"Maricopa County, Arizona",33111,Iron and steel mills and ferroalloy manufacturing,2007,11,100,H,642,G,2907,G
+0500000US04019,04019,"Pima County, Arizona",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US04025,04025,"Yavapai County, Arizona",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US05003,05003,"Ashley County, Arkansas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US05009,05009,"Boone County, Arkansas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US05027,05027,"Columbia County, Arkansas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US05037,05037,"Cross County, Arkansas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US05045,05045,"Faulkner County, Arkansas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US05051,05051,"Garland County, Arkansas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US05067,05067,"Jackson County, Arkansas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US05069,05069,"Jefferson County, Arkansas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US05093,05093,"Mississippi County, Arkansas",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,g,D,D,D,D,D
+0500000US05119,05119,"Pulaski County, Arkansas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US05131,05131,"Sebastian County, Arkansas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US05145,05145,"White County, Arkansas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US06001,06001,"Alameda County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US06005,06005,"Amador County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US06013,06013,"Contra Costa County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,f,D,D,D,D,D
+0500000US06017,06017,"El Dorado County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US06029,06029,"Kern County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,4,a,S,151,H,487,G
+0500000US06037,06037,"Los Angeles County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,29,273,G,2394,G,9773,G
+0500000US06041,06041,"Marin County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US06053,06053,"Monterey County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US06055,06055,"Napa County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US06059,06059,"Orange County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,11,74,G,635,G,2518,G
+0500000US06061,06061,"Placer County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US06065,06065,"Riverside County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,6,b,D,D,D,D,D
+0500000US06067,06067,"Sacramento County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US06071,06071,"San Bernardino County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,10,1440,G,23238,G,87893,H
+0500000US06073,06073,"San Diego County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,7,b,S,185,H,588,G
+0500000US06081,06081,"San Mateo County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US06083,06083,"Santa Barbara County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US06085,06085,"Santa Clara County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,26,G,294,G,904,G
+0500000US06097,06097,"Sonoma County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US06099,06099,"Stanislaus County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,a,D,D,D,D,D
+0500000US06109,06109,"Tuolumne County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US06111,06111,"Ventura County, California",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US08001,08001,"Adams County, Colorado",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US08005,08005,"Arapahoe County, Colorado",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,c,D,D,D,D,D
+0500000US08029,08029,"Delta County, Colorado",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US08031,08031,"Denver County, Colorado",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US08041,08041,"El Paso County, Colorado",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US08069,08069,"Larimer County, Colorado",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US08075,08075,"Logan County, Colorado",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US08101,08101,"Pueblo County, Colorado",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,f,D,D,D,D,D
+0500000US09003,09003,"Hartford County, Connecticut",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US09005,09005,"Litchfield County, Connecticut",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US09009,09009,"New Haven County, Connecticut",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,e,D,D,D,D,D
+0500000US10003,10003,"New Castle County, Delaware",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,e,D,D,D,D,D
+0500000US12017,12017,"Citrus County, Florida",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US12019,12019,"Clay County, Florida",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US12031,12031,"Duval County, Florida",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US12033,12033,"Escambia County, Florida",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US12057,12057,"Hillsborough County, Florida",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US12086,12086,"Miami-Dade County, Florida",33111,Iron and steel mills and ferroalloy manufacturing,2007,6,36,G,225,H,1023,G
+0500000US12095,12095,"Orange County, Florida",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US12099,12099,"Palm Beach County, Florida",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US12103,12103,"Pinellas County, Florida",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US12105,12105,"Polk County, Florida",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US12109,12109,"St. Johns County, Florida",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US13015,13015,"Bartow County, Georgia",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,e,D,D,D,D,D
+0500000US13035,13035,"Butts County, Georgia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US13065,13065,"Clinch County, Georgia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US13089,13089,"DeKalb County, Georgia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US13097,13097,"Douglas County, Georgia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US13105,13105,"Elbert County, Georgia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US13115,13115,"Floyd County, Georgia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US13121,13121,"Fulton County, Georgia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US13135,13135,"Gwinnett County, Georgia",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US13163,13163,"Jefferson County, Georgia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US13223,13223,"Paulding County, Georgia",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,16,G,112,G,315,G
+0500000US13247,13247,"Rockdale County, Georgia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US16009,16009,"Benewah County, Idaho",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US16011,16011,"Bingham County, Idaho",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US16019,16019,"Bonneville County, Idaho",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US16051,16051,"Jefferson County, Idaho",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US16055,16055,"Kootenai County, Idaho",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US17031,17031,"Cook County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,20,1346,G,24928,G,80669,G
+0500000US17043,17043,"DuPage County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,5,b,D,D,D,D,D
+0500000US17079,17079,"Jasper County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US17089,17089,"Kane County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,5,c,D,D,D,D,D
+0500000US17091,17091,"Kankakee County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,4,531,G,10947,H,34232,H
+0500000US17097,17097,"Lake County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US17111,17111,"McHenry County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US17113,17113,"McLean County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US17115,17115,"Macon County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US17119,17119,"Madison County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,h,D,D,D,D,D
+0500000US17123,17123,"Marshall County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US17143,17143,"Peoria County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,f,D,D,D,D,D
+0500000US17155,17155,"Putnam County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US17157,17157,"Randolph County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,c,D,D,D,D,D
+0500000US17177,17177,"Stephenson County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US17195,17195,"Whiteside County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US17197,17197,"Will County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US17201,17201,"Winnebago County, Illinois",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US18003,18003,"Allen County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US18031,18031,"Decatur County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US18033,18033,"DeKalb County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,f,D,D,D,D,D
+0500000US18039,18039,"Elkhart County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US18051,18051,"Gibson County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US18063,18063,"Hendricks County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US18065,18065,"Henry County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US18077,18077,"Jefferson County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US18089,18089,"Lake County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,7,j,D,D,D,D,D
+0500000US18091,18091,"LaPorte County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US18099,18099,"Marshall County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US18107,18107,"Montgomery County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,f,D,D,D,D,D
+0500000US18109,18109,"Morgan County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US18127,18127,"Porter County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,4,4814,H,90645,H,369964,H
+0500000US18131,18131,"Pulaski County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US18133,18133,"Putnam County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US18141,18141,"St. Joseph County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US18147,18147,"Spencer County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US18157,18157,"Tippecanoe County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US18183,18183,"Whitley County, Indiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US19013,19013,"Black Hawk County, Iowa",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US19049,19049,"Dallas County, Iowa",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US19057,19057,"Des Moines County, Iowa",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US19061,19061,"Dubuque County, Iowa",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US19063,19063,"Emmet County, Iowa",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US19073,19073,"Greene County, Iowa",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US19139,19139,"Muscatine County, Iowa",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,f,D,D,D,D,D
+0500000US19141,19141,"O'Brien County, Iowa",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US19147,19147,"Palo Alto County, Iowa",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US19153,19153,"Polk County, Iowa",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US19155,19155,"Pottawattamie County, Iowa",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US19167,19167,"Sioux County, Iowa",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US19189,19189,"Winnebago County, Iowa",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US20005,20005,"Atchison County, Kansas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US20079,20079,"Harvey County, Kansas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US20173,20173,"Sedgwick County, Kansas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US21015,21015,"Boone County, Kentucky",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US21019,21019,"Boyd County, Kentucky",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,g,D,D,D,D,D
+0500000US21037,21037,"Campbell County, Kentucky",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US21041,21041,"Carroll County, Kentucky",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,g,D,D,D,D,D
+0500000US21045,21045,"Casey County, Kentucky",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US21047,21047,"Christian County, Kentucky",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US21059,21059,"Daviess County, Kentucky",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US21067,21067,"Fayette County, Kentucky",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US21101,21101,"Henderson County, Kentucky",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US21111,21111,"Jefferson County, Kentucky",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US21133,21133,"Letcher County, Kentucky",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US21151,21151,"Madison County, Kentucky",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US21157,21157,"Marshall County, Kentucky",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,427,G,6308,H,25997,H
+0500000US21195,21195,"Pike County, Kentucky",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US21217,21217,"Taylor County, Kentucky",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US22005,22005,"Ascension Parish, Louisiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US22017,22017,"Caddo Parish, Louisiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US22063,22063,"Livingston Parish, Louisiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US22073,22073,"Ouachita Parish, Louisiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US22095,22095,"St. John the Baptist Parish, Louisiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US22109,22109,"Terrebonne Parish, Louisiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US22111,22111,"Union Parish, Louisiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US22113,22113,"Vermilion Parish, Louisiana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US24003,24003,"Anne Arundel County, Maryland",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US24005,24005,"Baltimore County, Maryland",33111,Iron and steel mills and ferroalloy manufacturing,2007,5,h,D,D,D,D,D
+0500000US24017,24017,"Charles County, Maryland",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US24021,24021,"Frederick County, Maryland",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US24033,24033,"Prince George's County, Maryland",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US25005,25005,"Bristol County, Massachusetts",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US25013,25013,"Hampden County, Massachusetts",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,c,D,D,D,D,D
+0500000US25017,25017,"Middlesex County, Massachusetts",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,a,D,D,D,D,D
+0500000US25021,25021,"Norfolk County, Massachusetts",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US25023,25023,"Plymouth County, Massachusetts",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US25027,25027,"Worcester County, Massachusetts",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US26025,26025,"Calhoun County, Michigan",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US26049,26049,"Genesee County, Michigan",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US26051,26051,"Gladwin County, Michigan",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US26075,26075,"Jackson County, Michigan",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,e,D,D,D,D,D
+0500000US26081,26081,"Kent County, Michigan",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,49,H,540,G,2496,G
+0500000US26099,26099,"Macomb County, Michigan",33111,Iron and steel mills and ferroalloy manufacturing,2007,13,258,G,2956,H,12655,H
+0500000US26115,26115,"Monroe County, Michigan",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,e,D,D,D,D,D
+0500000US26121,26121,"Muskegon County, Michigan",33111,Iron and steel mills and ferroalloy manufacturing,2007,5,c,D,D,D,D,D
+0500000US26125,26125,"Oakland County, Michigan",33111,Iron and steel mills and ferroalloy manufacturing,2007,5,24,H,300,G,1060,G
+0500000US26139,26139,"Ottawa County, Michigan",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,b,D,D,D,D,D
+0500000US26147,26147,"St. Clair County, Michigan",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US26157,26157,"Tuscola County, Michigan",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US26161,26161,"Washtenaw County, Michigan",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US26163,26163,"Wayne County, Michigan",33111,Iron and steel mills and ferroalloy manufacturing,2007,9,2700,H,52518,H,196627,H
+0500000US27003,27003,"Anoka County, Minnesota",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US27037,27037,"Dakota County, Minnesota",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US27043,27043,"Faribault County, Minnesota",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US27067,27067,"Kandiyohi County, Minnesota",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US27075,27075,"Lake County, Minnesota",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US27123,27123,"Ramsey County, Minnesota",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US27137,27137,"St. Louis County, Minnesota",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US27139,27139,"Scott County, Minnesota",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US27145,27145,"Stearns County, Minnesota",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US27149,27149,"Stevens County, Minnesota",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US28003,28003,"Alcorn County, Mississippi",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US28007,28007,"Attala County, Mississippi",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US28047,28047,"Harrison County, Mississippi",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US28071,28071,"Lafayette County, Mississippi",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US28087,28087,"Lowndes County, Mississippi",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US28109,28109,"Pearl River County, Mississippi",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US28119,28119,"Quitman County, Mississippi",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US28121,28121,"Rankin County, Mississippi",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US28131,28131,"Stone County, Mississippi",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US28141,28141,"Tishomingo County, Mississippi",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US29023,29023,"Butler County, Missouri",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US29031,29031,"Cape Girardeau County, Missouri",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US29095,29095,"Jackson County, Missouri",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US29097,29097,"Jasper County, Missouri",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US29099,29099,"Jefferson County, Missouri",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US29113,29113,"Lincoln County, Missouri",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US29151,29151,"Osage County, Missouri",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US29157,29157,"Perry County, Missouri",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US29183,29183,"St. Charles County, Missouri",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US29195,29195,"Saline County, Missouri",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US29199,29199,"Scotland County, Missouri",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US29201,29201,"Scott County, Missouri",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US30027,30027,"Fergus County, Montana",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US30031,30031,"Gallatin County, Montana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US30081,30081,"Ravalli County, Montana",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US31131,31131,"Otoe County, Nebraska",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US31141,31141,"Platte County, Nebraska",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US31167,31167,"Stanton County, Nebraska",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US32003,32003,"Clark County, Nevada",33111,Iron and steel mills and ferroalloy manufacturing,2007,4,b,S,150,G,644,G
+0500000US33011,33011,"Hillsborough County, New Hampshire",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US33013,33013,"Merrimack County, New Hampshire",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US34003,34003,"Bergen County, New Jersey",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US34007,34007,"Camden County, New Jersey",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US34013,34013,"Essex County, New Jersey",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US34015,34015,"Gloucester County, New Jersey",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,b,D,D,D,D,D
+0500000US34023,34023,"Middlesex County, New Jersey",33111,Iron and steel mills and ferroalloy manufacturing,2007,5,f,D,D,D,D,D
+0500000US34025,34025,"Monmouth County, New Jersey",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US34027,34027,"Morris County, New Jersey",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US34029,34029,"Ocean County, New Jersey",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US34031,34031,"Passaic County, New Jersey",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US34035,34035,"Somerset County, New Jersey",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US34039,34039,"Union County, New Jersey",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US34041,34041,"Warren County, New Jersey",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US35001,35001,"Bernalillo County, New Mexico",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,7,G,S,S,345,H
+0500000US35007,35007,"Colfax County, New Mexico",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US35009,35009,"Curry County, New Mexico",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US35013,35013,"Dona Ana County, New Mexico",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US36011,36011,"Cayuga County, New York",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US36013,36013,"Chautauqua County, New York",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US36015,36015,"Chemung County, New York",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US36019,36019,"Clinton County, New York",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US36029,36029,"Erie County, New York",33111,Iron and steel mills and ferroalloy manufacturing,2007,8,810,G,11041,G,45244,G
+0500000US36047,36047,"Kings County, New York",33111,Iron and steel mills and ferroalloy manufacturing,2007,4,a,S,S,S,700,H
+0500000US36055,36055,"Monroe County, New York",33111,Iron and steel mills and ferroalloy manufacturing,2007,4,a,S,68,G,266,G
+0500000US36059,36059,"Nassau County, New York",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US36061,36061,"New York County, New York",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US36067,36067,"Onondaga County, New York",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,f,D,D,D,D,D
+0500000US36081,36081,"Queens County, New York",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US36085,36085,"Richmond County, New York",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US36089,36089,"St. Lawrence County, New York",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US36103,36103,"Suffolk County, New York",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US36111,36111,"Ulster County, New York",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US36119,36119,"Westchester County, New York",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US37019,37019,"Brunswick County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US37023,37023,"Burke County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US37025,37025,"Cabarrus County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US37057,37057,"Davidson County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US37063,37063,"Durham County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US37067,37067,"Forsyth County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US37071,37071,"Gaston County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US37081,37081,"Guilford County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US37091,37091,"Hertford County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US37097,37097,"Iredell County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US37109,37109,"Lincoln County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US37119,37119,"Mecklenburg County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US37129,37129,"New Hanover County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US37147,37147,"Pitt County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US37163,37163,"Sampson County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US37179,37179,"Union County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US37183,37183,"Wake County, North Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,a,S,S,S,472,G
+0500000US38073,38073,"Ransom County, North Dakota",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US38091,38091,"Steele County, North Dakota",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US38105,38105,"Williams County, North Dakota",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US39017,39017,"Butler County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,g,D,D,D,D,D
+0500000US39029,39029,"Columbiana County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US39035,39035,"Cuyahoga County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,13,g,D,D,D,D,D
+0500000US39049,39049,"Franklin County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,c,D,D,D,D,D
+0500000US39059,39059,"Guernsey County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US39075,39075,"Holmes County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US39081,39081,"Jefferson County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,g,D,D,D,D,D
+0500000US39083,39083,"Knox County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US39085,39085,"Lake County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US39093,39093,"Lorain County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,g,D,D,D,D,D
+0500000US39095,39095,"Lucas County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,c,D,D,D,D,D
+0500000US39099,39099,"Mahoning County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,4,e,D,D,D,D,D
+0500000US39101,39101,"Marion County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,e,D,D,D,D,D
+0500000US39103,39103,"Medina County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US39109,39109,"Miami County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US39113,39113,"Montgomery County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,4,b,D,D,D,D,D
+0500000US39123,39123,"Ottawa County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,f,D,D,D,D,D
+0500000US39137,39137,"Putnam County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US39139,39139,"Richland County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,f,D,D,D,D,D
+0500000US39147,39147,"Seneca County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US39151,39151,"Stark County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,5,3242,H,53190,H,212026,H
+0500000US39155,39155,"Trumbull County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,6,e,D,D,D,D,D
+0500000US39167,39167,"Washington County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,616,H,8271,G,36012,G
+0500000US39173,39173,"Wood County, Ohio",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US40023,40023,"Choctaw County, Oklahoma",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US40043,40043,"Dewey County, Oklahoma",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US40061,40061,"Haskell County, Oklahoma",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US40081,40081,"Lincoln County, Oklahoma",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US40095,40095,"Marshall County, Oklahoma",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US40097,40097,"Mayes County, Oklahoma",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US40101,40101,"Muskogee County, Oklahoma",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US40109,40109,"Oklahoma County, Oklahoma",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US40123,40123,"Pontotoc County, Oklahoma",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US40131,40131,"Rogers County, Oklahoma",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US40133,40133,"Seminole County, Oklahoma",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US40143,40143,"Tulsa County, Oklahoma",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,c,D,D,D,D,D
+0500000US40145,40145,"Wagoner County, Oklahoma",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US41005,41005,"Clackamas County, Oregon",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US41029,41029,"Jackson County, Oregon",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US41051,41051,"Multnomah County, Oregon",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,f,D,D,D,D,D
+0500000US41067,41067,"Washington County, Oregon",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US41071,41071,"Yamhill County, Oregon",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,f,D,D,D,D,D
+0500000US42003,42003,"Allegheny County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,9,i,D,D,D,D,D
+0500000US42007,42007,"Beaver County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,9,1209,G,14614,G,59749,G
+0500000US42009,42009,"Bedford County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US42011,42011,"Berks County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,4,g,D,D,D,D,D
+0500000US42017,42017,"Bucks County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,4,c,D,D,D,D,D
+0500000US42019,42019,"Butler County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,5,g,D,D,D,D,D
+0500000US42021,42021,"Cambria County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,e,D,D,D,D,D
+0500000US42025,42025,"Carbon County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US42029,42029,"Chester County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,f,D,D,D,D,D
+0500000US42039,42039,"Crawford County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US42041,42041,"Cumberland County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US42043,42043,"Dauphin County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,f,D,D,D,D,D
+0500000US42045,42045,"Delaware County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US42049,42049,"Erie County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,c,D,D,D,D,D
+0500000US42063,42063,"Indiana County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US42071,42071,"Lancaster County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,c,D,D,D,D,D
+0500000US42073,42073,"Lawrence County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,6,349,G,7708,H,30377,H
+0500000US42077,42077,"Lehigh County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US42081,42081,"Lycoming County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US42085,42085,"Mercer County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,4,846,H,14043,H,50055,H
+0500000US42087,42087,"Mifflin County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,f,D,D,D,D,D
+0500000US42089,42089,"Monroe County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US42091,42091,"Montgomery County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,e,D,D,D,D,D
+0500000US42095,42095,"Northampton County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,c,D,D,D,D,D
+0500000US42097,42097,"Northumberland County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US42121,42121,"Venango County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,e,D,D,D,D,D
+0500000US42125,42125,"Washington County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,e,D,D,D,D,D
+0500000US42129,42129,"Westmoreland County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,8,g,D,D,D,D,D
+0500000US42133,42133,"York County, Pennsylvania",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,c,D,D,D,D,D
+0500000US45007,45007,"Anderson County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US45013,45013,"Beaufort County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US45015,45015,"Berkeley County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,g,D,D,D,D,D
+0500000US45019,45019,"Charleston County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US45021,45021,"Cherokee County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US45023,45023,"Chester County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US45031,45031,"Darlington County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US45043,45043,"Georgetown County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US45045,45045,"Greenville County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US45059,45059,"Laurens County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US45061,45061,"Lee County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US45063,45063,"Lexington County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,e,D,D,D,D,D
+0500000US45077,45077,"Pickens County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US45079,45079,"Richland County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,c,D,D,D,D,D
+0500000US45083,45083,"Spartanburg County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US45085,45085,"Sumter County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US45091,45091,"York County, South Carolina",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US46053,46053,"Gregory County, South Dakota",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US46061,46061,"Hanson County, South Dakota",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US47009,47009,"Blount County, Tennessee",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US47011,47011,"Bradley County, Tennessee",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US47029,47029,"Cocke County, Tennessee",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US47037,47037,"Davidson County, Tennessee",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US47055,47055,"Giles County, Tennessee",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US47093,47093,"Knox County, Tennessee",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,e,D,D,D,D,D
+0500000US47113,47113,"Madison County, Tennessee",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US47131,47131,"Obion County, Tennessee",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US47149,47149,"Rutherford County, Tennessee",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US47157,47157,"Shelby County, Tennessee",33111,Iron and steel mills and ferroalloy manufacturing,2007,4,c,D,D,D,D,D
+0500000US47165,47165,"Sumner County, Tennessee",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US48029,48029,"Bexar County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US48037,48037,"Bowie County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US48039,48039,"Brazoria County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US48059,48059,"Callahan County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US48097,48097,"Cooke County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US48113,48113,"Dallas County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,4,137,G,1115,H,4486,H
+0500000US48117,48117,"Deaf Smith County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US48121,48121,"Denton County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US48135,48135,"Ector County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US48139,48139,"Ellis County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,f,D,D,D,D,D
+0500000US48141,48141,"El Paso County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,e,D,D,D,D,D
+0500000US48143,48143,"Erath County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,c,D,D,D,D,D
+0500000US48163,48163,"Frio County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US48187,48187,"Guadalupe County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,f,D,D,D,D,D
+0500000US48201,48201,"Harris County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,25,525,G,5318,G,26119,G
+0500000US48209,48209,"Hays County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US48215,48215,"Hidalgo County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,c,D,D,D,D,D
+0500000US48225,48225,"Houston County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US48245,48245,"Jefferson County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US48265,48265,"Kerr County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US48289,48289,"Leon County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US48291,48291,"Liberty County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US48303,48303,"Lubbock County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US48309,48309,"McLennan County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US48339,48339,"Montgomery County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US48343,48343,"Morris County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,g,D,D,D,D,D
+0500000US48361,48361,"Orange County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US48399,48399,"Runnels County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US48401,48401,"Rusk County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US48423,48423,"Smith County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US48439,48439,"Tarrant County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,6,36,H,311,G,1791,G
+0500000US48441,48441,"Taylor County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US48453,48453,"Travis County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US48469,48469,"Victoria County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US48473,48473,"Waller County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US48481,48481,"Wharton County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US48485,48485,"Wichita County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,3,11,G,S,S,602,H
+0500000US48493,48493,"Wilson County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US48497,48497,"Wise County, Texas",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US49003,49003,"Box Elder County, Utah",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US49029,49029,"Morgan County, Utah",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US49047,49047,"Uintah County, Utah",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US50021,50021,"Rutland County, Vermont",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US50023,50023,"Washington County, Vermont",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US51023,51023,"Botetourt County, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,e,D,D,D,D,D
+0500000US51027,51027,"Buchanan County, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US51036,51036,"Charles City County, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US51053,51053,"Dinwiddie County, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US51079,51079,"Greene County, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US51083,51083,"Halifax County, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US51085,51085,"Hanover County, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US51109,51109,"Louisa County, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US51191,51191,"Washington County, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US51195,51195,"Wise County, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US51515,51515,"Bedford city, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US51550,51550,"Chesapeake city, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US51650,51650,"Hampton city, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US51690,51690,"Martinsville city, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US51760,51760,"Richmond city, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US51770,51770,"Roanoke city, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US51810,51810,"Virginia Beach city, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US51830,51830,"Williamsburg city, Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US53007,53007,"Chelan County, Washington",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US53011,53011,"Clark County, Washington",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US53015,53015,"Cowlitz County, Washington",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US53033,53033,"King County, Washington",33111,Iron and steel mills and ferroalloy manufacturing,2007,6,f,D,D,D,D,D
+0500000US53053,53053,"Pierce County, Washington",33111,Iron and steel mills and ferroalloy manufacturing,2007,4,80,H,784,H,4345,H
+0500000US53061,53061,"Snohomish County, Washington",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US53067,53067,"Thurston County, Washington",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US53071,53071,"Walla Walla County, Washington",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US54009,54009,"Brooke County, West Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,f,D,D,D,D,D
+0500000US54011,54011,"Cabell County, West Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,e,D,D,D,D,D
+0500000US54029,54029,"Hancock County, West Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,g,D,D,D,D,D
+0500000US54039,54039,"Kanawha County, West Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US54041,54041,"Lewis County, West Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US54053,54053,"Mason County, West Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,c,D,D,D,D,D
+0500000US54069,54069,"Ohio County, West Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,e,D,D,D,D,D
+0500000US54079,54079,"Putnam County, West Virginia",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US55059,55059,"Kenosha County, Wisconsin",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US55079,55079,"Milwaukee County, Wisconsin",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US55089,55089,"Ozaukee County, Wisconsin",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,f,D,D,D,D,D
+0500000US55101,55101,"Racine County, Wisconsin",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US55105,55105,"Rock County, Wisconsin",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,b,D,D,D,D,D
+0500000US55109,55109,"St. Croix County, Wisconsin",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US55111,55111,"Sauk County, Wisconsin",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US55133,55133,"Waukesha County, Wisconsin",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,b,D,D,D,D,D
+0500000US56025,56025,"Natrona County, Wyoming",33111,Iron and steel mills and ferroalloy manufacturing,2007,2,a,D,D,D,D,D
+0500000US56035,56035,"Sublette County, Wyoming",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D
+0500000US56037,56037,"Sweetwater County, Wyoming",33111,Iron and steel mills and ferroalloy manufacturing,2007,1,a,D,D,D,D,D

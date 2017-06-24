@@ -1,0 +1,13 @@
+GEO.id,Geographic identifier code
+GEO.id2,Id2
+GEO.display-label,Geographic area name
+NAICS.id,2002 NAICS code
+NAICS.display-label,Meaning of 2002 NAICS code
+YEAR.id,Year
+ESTAB,Number of establishments
+EMP,Number of employees
+EMP_N,Noise range for number of employees (%)
+PAYQTR1,"First-quarter payroll ($1,000)"
+PAYQTR1_N,Noise range for first-quarter payroll (%)
+PAYANN,"Annual payroll ($1,000)"
+PAYANN_N,Noise range for annual payroll (%)
