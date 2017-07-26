@@ -1,5 +1,5 @@
 # Lung-Cancer-Prediction
-Predicting Lung Cancer incidences by county.  See `cancer.ipynb` to see the implementation of the supervised learner, and `Capstone_MLND_Cancer.pdf` to see the report.
+Predicting Lung Cancer incidences by county.  See `cancer.ipynb` to see the implementation of the supervised learner, and `Capstone_MLND_Cancer.pdf` to see the report.  The noteook is best viewed online using nbviewer, http://nbviewer.jupyter.org/github/rjbergerud/Lung-Cancer-Prediction/blob/master/Cancer.ipynb.
 
 ### Use conda or an alternative version control/package manager to install python 3.6
 
