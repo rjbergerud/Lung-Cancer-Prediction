@@ -1,5 +1,5 @@
 # Lung-Cancer-Prediction
-Predicting Lung Cancer incidences by county.
+Predicting Lung Cancer incidences by county.  See `cancer.ipynb` to see the implementation of the supervised learner, and `Capstone_MLND_Cancer.pdf` to see the report.
 
 ### Use conda or an alternative version control/package manager to install python 3.6
 
